@@ -20,8 +20,8 @@ A timer to keep your food from burning or for any other activity.
 - Powered by a coin cell battery
 - Low power consumption design
 - Minimalist and customizable user interface
-  
-  ## Reason for the design
+
+## Reason for the design
 I wanted a minimalist and easy-to-use timer that doesn’t rely on complex components.
 The goal was simplicity, portability, low power consumption, and leaving the time adjustment flexible and customizable.
 
