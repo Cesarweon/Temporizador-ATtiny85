@@ -1,5 +1,6 @@
 ## Mazapan 
-Slack username: Mazapan Slack ID: U07GK0JGA1X
+- Slack username: Mazapan 
+- Slack ID: U07GK0JGA1X
 # Temporizador-ATtiny85
 
 A timer to keep your food from burning or for any other activity.
