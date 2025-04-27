@@ -11,10 +11,6 @@ A timer to keep your food from burning or for any other activity.
 
 ![](https://github.com/Cesarweon/Temporizador-ATtiny85/blob/main/Imagenes/3D%20frente.png) ![](https://github.com/Cesarweon/Temporizador-ATtiny85/blob/main/Imagenes/3D%20atras.png)
 
-## Reason for the design
-I wanted a minimalist and easy-to-use timer that doesn’t rely on complex components.
-The goal was simplicity, portability, low power consumption, and leaving the time adjustment flexible and customizable.
-
 ## Features
 - Based on ATtiny85 microcontroller
 - Adjustable countdown time with buttons
@@ -24,6 +20,10 @@ The goal was simplicity, portability, low power consumption, and leaving the tim
 - Powered by a coin cell battery
 - Low power consumption design
 - Minimalist and customizable user interface
+  
+  ## Reason for the design
+I wanted a minimalist and easy-to-use timer that doesn’t rely on complex components.
+The goal was simplicity, portability, low power consumption, and leaving the time adjustment flexible and customizable.
 
 ## BOM
 - 1x CR2032 battery cell
