@@ -16,14 +16,14 @@ I wanted a minimalist and easy-to-use timer that doesn’t rely on complex compo
 The goal was simplicity, portability, low power consumption, and leaving the time adjustment flexible and customizable.
 
 ## Features
--Based on ATtiny85 microcontroller
--Adjustable countdown time with buttons
--LED indicators 
--Vibration motor alert when countdown ends
--Compact PCB designed for keychain or wearable use
--Powered by a coin cell battery
--Low power consumption design
--Minimalist and customizable user interface
+- Based on ATtiny85 microcontroller
+- Adjustable countdown time with buttons
+- LED indicators 
+- Vibration motor alert when countdown ends
+- Compact PCB designed for keychain or wearable use
+- Powered by a coin cell battery
+- Low power consumption design
+- Minimalist and customizable user interface
 
 ## BOM
 - 1x CR2032 battery cell
