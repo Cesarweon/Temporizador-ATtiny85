@@ -29,6 +29,7 @@ I wanted a minimalist and easy-to-use timer that doesn’t rely on complex compo
 The goal was simplicity, portability, low power consumption, and leaving the time adjustment flexible and customizable.
 
 ## BOM
+- ATtiny85-20PU
 - 1x CR2032 battery cell
 - 2x 220Ω Resistor
 - 1x 1KΩ Resistor
