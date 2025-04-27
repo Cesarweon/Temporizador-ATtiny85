@@ -21,3 +21,4 @@ A timer to keep your food from burning or for any other activity.
 - 1x 0.1uF Capacitor 
 - 1x 2N3904 transistor
 - 2x 5mm LED
+- 1x Mini motor disc
