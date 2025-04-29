@@ -12,7 +12,7 @@ A timer to keep your food from burning or for any other activity.
 ## PCB
 ![](https://github.com/Cesarweon/Temporizador-ATtiny85/blob/main/Imagenes/PCB.png)
 
-![](https://github.com/Cesarweon/Temporizador-ATtiny85/blob/main/Imagenes/3D%20frente.png) ![](https://github.com/Cesarweon/Temporizador-ATtiny85/blob/main/Imagenes/3D%20atras.png)
+![](https://github.com/Cesarweon/Temporizador-ATtiny85/blob/main/Imagenes/3D-Ad.png) ![](https://github.com/Cesarweon/Temporizador-ATtiny85/blob/main/Imagenes/3D-At.png)
 
 ## Features
 - Based on ATtiny85 microcontroller
